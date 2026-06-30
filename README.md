@@ -200,9 +200,9 @@ jupyter notebook analysis.ipynb
 
 - Name: Harshit Dwivedi
 - Project: Week 2 Internship Assignment
-- Date: June 2026
+- Date: 30 June 2026
 - Email: harshitd3113@gmail.com
-- GitHub: @Harshitd13
+- GitHub: https://github.com/Harshitd13
 
 ## 📝 Project Status
 
